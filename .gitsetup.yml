@@ -1,0 +1,5 @@
+---
+remotes:
+  primary: git@github.com:destructuring/ghp-layouts
+  secondary: git@bitbucket.org:destructuring/ghp-layouts
+  rb: https://github.com/destructuring/rb-helper
